@@ -1,4 +1,4 @@
-package pvin.springframework.sfg_di.services;
+package com.springframework.pets;
 
 public interface PetService {
 

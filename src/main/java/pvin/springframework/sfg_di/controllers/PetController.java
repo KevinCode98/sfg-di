@@ -1,7 +1,7 @@
 package pvin.springframework.sfg_di.controllers;
 
 import org.springframework.stereotype.Controller;
-import pvin.springframework.sfg_di.services.PetService;
+import com.springframework.pets.PetService;
 
 @Controller
 public class PetController {
